@@ -9,7 +9,7 @@
 <ul>
   <li>Blender</li>
   <li>Unity Engine</li>
-  <li>(The very bottom of the list) C#</li>
+  <li>(The lowest priority) C#</li>
 </ul>
 
 <br>
