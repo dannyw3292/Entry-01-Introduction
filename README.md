@@ -13,7 +13,6 @@
 </ul>
 
 <br>
-<br>
 <h3>What is... Blender?</h3>
 <p>Like what I've said already, Blender's a 3D modelling program, complex but of course, with complexity gives more you more options to work with. </p>
 <img src="https://i.stack.imgur.com/CxQwp.jpg" alt="jpg image">
