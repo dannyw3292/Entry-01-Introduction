@@ -1,5 +1,7 @@
 https://cgi.tutsplus.com/tutorials/building-a-basic-low-poly-character-rig-in-blender--cg-16955
 <p>links/stuff for blender</p>
+https://gamedevacademy.org/how-to-build-a-complete-2d-platformer-in-unity/
+<p>stuff for unity</p>
 
 <h1> Entry 2: Tinkering</h1>
 <h3> First one, Unity! </h3>
