@@ -1,8 +1,3 @@
-https://cgi.tutsplus.com/tutorials/building-a-basic-low-poly-character-rig-in-blender--cg-16955
-<p>links/stuff for blender</p>
-https://gamedevacademy.org/how-to-build-a-complete-2d-platformer-in-unity/
-<p>stuff for unity</p>
-
 <h1> Entry 2: Tinkering</h1>
 <h3> First one, Unity! </h3>
 <p> For the majority of this week, I've spent moving away from Blender and began tinkering with Unity.</p>
@@ -33,3 +28,9 @@ https://gamedevacademy.org/how-to-build-a-complete-2d-platformer-in-unity/
   <li> Be patient with learning something new. Ambition is nice and all but it's best if you tackle something new or a challenge one step at a time</li>
   <li>Know what you want to make or at least a very basic idea of it. This will help you a long way because you can narrow down what sort of learning you would need rather than just learning a bunch of things that don't help you at all.</li>
 </ul>
+
+<p> Don't worry about these links below, they're for me ;)</p>
+https://cgi.tutsplus.com/tutorials/building-a-basic-low-poly-character-rig-in-blender--cg-16955
+<p>links/stuff for blender</p>
+https://gamedevacademy.org/how-to-build-a-complete-2d-platformer-in-unity/
+<p>stuff for unity</p>
