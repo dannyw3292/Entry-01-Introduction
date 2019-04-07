@@ -28,8 +28,9 @@
   <li> Be patient with learning something new. Ambition is nice and all but it's best if you tackle something new or a challenge one step at a time</li>
   <li>Know what you want to make or at least a very basic idea of it. This will help you a long way because you can narrow down what sort of learning you would need rather than just learning a bunch of things that don't help you at all.</li>
 </ul>
+<br>
 
-<p> Don't worry about these links below, they're for me ;)</p>
+<h4> Don't worry about these links below, they're for me ;)</h4>
 https://cgi.tutsplus.com/tutorials/building-a-basic-low-poly-character-rig-in-blender--cg-16955
 <p>links/stuff for blender</p>
 https://gamedevacademy.org/how-to-build-a-complete-2d-platformer-in-unity/
