@@ -12,3 +12,5 @@ https://docs.blender.org/manual/en/latest/rigging/armatures/introduction.html#yo
 <br>
 https://www.youtube.com/watch?v=DiIoWrOlIRw <-- low poly + rig tutorial
 https://github.com/jayanam/shortcut_VUr <-- screencast key addon (show what keys pressed)
+
+The tutorials I've watched about creating a low poly model, almost all of them use a background image that has a front view and a side view of something. The model is "built" in the basic shape of the drawing itself and having both allows you to adjust the size and basic shapes to match that of the drawing. They also delete half of the initial block that they work with so they can apply the "Mirror" modifier so they can work on one side without worry.
