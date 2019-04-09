@@ -8,3 +8,7 @@ So, I have a model, now what? If you want to keep it as a still rendering, you'r
 <img src="https://docs.blender.org/manual/en/latest/_images/rigging_armatures_introduction_default.png" alt="jpg">
 These are the joints that make up the entire rig.
 https://docs.blender.org/manual/en/latest/rigging/armatures/introduction.html#your-first-armature
+
+<br>
+https://www.youtube.com/watch?v=DiIoWrOlIRw <-- low poly + rig tutorial
+https://github.com/jayanam/shortcut_VUr <-- screencast key addon (show what keys pressed)
