@@ -20,7 +20,7 @@ The tutorials I've watched about creating a low poly model, almost all of them u
 <br>
 I've made some some progress but geez, it's so darn ugly. <br>
 <img src="Images/lowpoly.png" alt="png">
-<img src="Images/lowpoly2.png" alt="png>
+<img src="Images/lowpoly2.png" alt="png">
 <br>
 I was thinking the whole time while making it, "There has got to be an easier way to create this and not... make it look so doo-doo" and I forgot to note down what I wanted to do to solve this problem.
 
