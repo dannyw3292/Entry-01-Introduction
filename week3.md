@@ -17,5 +17,9 @@ I haven't experimented too much with armatures and rigs (I've yet to create my o
 
 <h4>Back to the stuff I'm actually tinkering and smashing around!</h4>
 The tutorials I've watched about creating a low poly model, almost all of them use a background image that has a front view and a side view of something. The model is "built" in the basic shape of the drawing itself and having both allows you to adjust the size and basic shapes to match that of the drawing. They also delete half of the initial block that they work with so they can apply the "Mirror" modifier so they can work on one side without worry. Personally, I think the reason why they do that is so that it's symmetrical and makes the modelling process easier for themselves. <br>
-I've made some some progress but geez, it's so darn ugly. I was thinking the whole time while making it, "There has got to be an easier way to create this and not... make it look so doo-doo" and I forgot to note down
+I've made some some progress but geez, it's so darn ugly. <br>
+<img src="Images/lowpoly.png" alt="png">
+<img src="Images/lowpoly2.png" alt="png>
+<br>
+I was thinking the whole time while making it, "There has got to be an easier way to create this and not... make it look so doo-doo" and I forgot to note down what I wanted to do to solve this problem.
 
