@@ -22,5 +22,22 @@ I've made some some progress but geez, it's so darn ugly. <br>
 <img src="Images/lowpoly.png" alt="png">
 <img src="Images/lowpoly2.png" alt="png">
 <br>
-I was thinking the whole time while making it, "There has got to be an easier way to create this and not... make it look so doo-doo" and I forgot to note down what I wanted to do to solve this problem. When I first got the thought, I was like "Nah, I'll just write it down later" and now I can't remember what I wanted to do.
+I was thinking the whole time while making it, "There has got to be an easier way to create this and not... make it look so doo-doo" and I forgot to note down what I wanted to do to solve this problem. When I first got the thought, I was like "Nah, I'll just write it down later" and now I can't remember what I wanted to do. It was instant regret the moment I needed that little note, I couldn't remember at all and didn't have it written down because I delayed it. To be honest, I still don't know what I wanted to do concerning my progress, I just know that it was either to make it look prettier, watch more tutorials on it, or something.
 
+<h3>Next Week Plans!</h3>
+For the fourth week, I'm planning on finishing my model and rigging it (somehow with the power of youtube and tutorials) so that my partners and I can come together and compile everything we've made into Unity.
+So! My to-do list that I may or may not follow 'cause I procrastinate:
+<ol>
+  <li>Finish a really simple low-poly model! Doesn't matter what, just a simple humanoid looking model!</li>
+  <li>Rig it, give it a skeleton.</li>
+  <li>Test around with animations and making sure it doesn't look nor act all funky.</li>
+  <li>???</li>
+  <li>Profit</li>
+</ol>
+
+<h2>TAKEAWAYS!!!</h2>
+I had quite a bit of fun this week with Blender, messing around and having a couple of laughs to myself
+<ul>
+  <li><strong>TINKER AND SANDBOX!!!</strong> Since the start of this independent study, I haven't sandboxed THAT much and instead, I've been reading up on everything (cough, armatures) and that doesn't help since you can't understand fully what anything does if you've just read about it.</li>
+  <li><strong>Write down stuff!</strong> Holy smokes, the number of little notes and tid-bits that I thought about on the spot but decided to procrastinate writing that down, it pains me so much. Writing down your thoughts, whatever it is or however important it may or may not be, write it down because it could be the key to a breakthrough.</li>
+</ul>
