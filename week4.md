@@ -17,5 +17,5 @@ During school-week leading up to Spring Break in addition to the week from the b
 <img src="Images/modelandrig.JPG">
 
 And here's the model + rig! This was give or take a few hours of me scrambling about, constantly re-watching tutorials because I didn't understand, tinkering and whatnot to create with some big problems along the way, to create with some minor issues which I'll talk about later. But first, here are some images of what I struggled with:
-<img src"Images/brokenmodel.png" width="200px" height="200px">
-<img src="Images/brokenmodel2.png" width="200px" height=200px">
+<img src="Images/brokenmodel.png">
+<img src="Images/brokenmodel2.png">
