@@ -25,5 +25,5 @@ Additionally, with the large number of faces to create the shapes, it drasticall
 
 <h3>TAKEAWAYS!</h3>
 <ul>
-  <li><strong>It's never a waste of time to learn something.</strong>For my situation, I slowly progressed through the basics of creating models and of the sort in Blender and while it felt like it didn't get me to where I wanted to be instantly, it certainly helped when I needed that knowledge. To sculpt, you need a basic foundation to begin molding to avoid any future complications that would usually require a full restart of the process, this is where the several weeks of learning about ONLY low-poly models came into play. It felt like a waste of time but it certainly helped me.</li>
+  <li><strong>It's never a waste of time to learn something.</strong> For my situation, I slowly progressed through the basics of creating models and of the sort in Blender and while it felt like it didn't get me to where I wanted to be instantly, it certainly helped when I needed that knowledge. To sculpt, you need a basic foundation to begin molding to avoid any future complications that would usually require a full restart of the process, this is where the several weeks of learning about ONLY low-poly models came into play. It felt like a waste of time but it certainly helped me.</li>
 </ul>
