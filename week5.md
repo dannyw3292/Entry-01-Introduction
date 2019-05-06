@@ -16,7 +16,9 @@ I tinkered about with sculpting, just creating random lines here and there and j
 
 The difference between molding clay and molding an object is that when you mold an object, you need multiple faces as shown in the above picture to take shape. Want a small and smooth bump somewhere? You'd better have enough faces to create that smoothness. This is where the issue comes in, it creates a lot of faces just to create the desired shape. It causes a lot of lag and slows down everything if I try to make any adjustments to the model itself in edit mode like extending a portion of the model (in the case of this test sculpture, perhaps adding a neck) would strain the system a lot.
 <br>
+<br>
 This ties into my progress in creating low-poly models. You'd generally want to have the basic shape of anything you want to begin sculpting. An example would be having basic rectangles make up the shape of a human body so that you can avoid having to create those sorts of shapes once you've already begun sculpting since again, it lags out the program. The lesson of having learned something that pertains to your goal will eventually come to assist you.
+<br>
 <br>
 Additionally, with the large number of faces to create the shapes, it drastically increases the size of the file. The picture of the head that I created, that itself is 25 megabytes which is extremely huge considering the free version of Unity collaborate has a single gigabyte of maximum cloud storage. There's also the matter of sending my files to my partner through emails and whatnot, it sometimes exceeds the maximum amount of file space as attachments. All in all, these problems that come from sculpting are somewhat of an inconvenience so it wouldn't be too much of a struggle for me to circumvent the problem.
 
