@@ -35,9 +35,11 @@ And cue the problems.
 <h3>Problems with Exporting</h3>
 Remember when I complained about file formats? Yeah, those are painful. So Shi Wei's been using a file format called .fbx that I've been sending him and up until now, that was all fine and dandy. What I found out about .fbx format is that it doesn't support textures, meaning it doesn't save ANY of the textures that I've applied so all Shi Wei got was a white model with literally nothing on it when he imported the file into Unity:
 <br>
+<br>
 <img src="Images/exportproblem1.jpg">
 <br>
 Trust me, the problem still isn't fixed and I'm slightly annoyed about it. Okay, maybe not slightly, maybe I was EXTREMELY annoyed about it. And cut in problem number two, I tried sending Shi Wei the blender file to see if that would help with having the textures but I forgot about the problem in doing so. Remember, nodes like the Image Texture node allow you to use texture files to be uploaded and applied but only locally. That means that Shi Wei wouldn't see any of the textures because he doesn't have any of the textures downloaded and since the path to finding those textures doesn't exist on Shi Wei's computer, it just gives him a bright pink block of beautifulness and annoyance:
+<br>
 <br>
 <img src="Images/textureproblem1.jpg">
 <br>
