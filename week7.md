@@ -17,4 +17,9 @@ Yeah... I didn't know exactly what that abomination was nor did Shi Wei know. We
 
 <img src="Images/distortion.jpg">
 <br>
+<h3>Weight Painting</h3>
 The hip/pelvic region would distort out whenever the legs were moved which Shi Wei and I were definitely not having any of. Immediately I went to work, figuring out that it would probably be the result of the weight of each bone (of the rig) on the model. 
+<img src="Images/weight1.JPG">
+<br>
+What is it that you're looking at in the picture? Don't worry. It's rather simple. If it's dark blue, the rig has zero effect on the model when it's moved. If it's bright red then the rig moves the entire model with it if the rig is moved. Any color in between dark blue and bright red would have a varying effect on the model. That's pretty much Weight Painting in Blender, you just adjust the colors around until everything's as it should be, no distortions or anything. I had to remove most of the color that was present on the single leg bone because it had apparently extended up to the stomach area, causing the distortions whenever the legs were moved.
+Overall, a lot of these problems were resolved rather quickly because I communicated with Shi Wei and he did the same with me. Any slight problems that arose concerning the model, he immediately let me know so that I could fix it.
