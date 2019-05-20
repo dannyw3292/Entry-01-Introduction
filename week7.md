@@ -23,3 +23,9 @@ The hip/pelvic region would distort out whenever the legs were moved which Shi W
 <br>
 What is it that you're looking at in the picture? Don't worry. It's rather simple. If it's dark blue, the rig has zero effect on the model when it's moved. If it's bright red then the rig moves the entire model with it if the rig is moved. Any color in between dark blue and bright red would have a varying effect on the model. That's pretty much Weight Painting in Blender, you just adjust the colors around until everything's as it should be, no distortions or anything. I had to remove most of the color that was present on the single leg bone because it had apparently extended up to the stomach area, causing the distortions whenever the legs were moved.
 Overall, a lot of these problems were resolved rather quickly because I communicated with Shi Wei and he did the same with me. Any slight problems that arose concerning the model, he immediately let me know so that I could fix it.
+<img src="Images/chat.JPG">
+<br>
+<h3>TAKEAWAYS!</h3>
+<ul>
+  <li><strong>Communication is so important!</strong> A lot of problems can be resolved if you vocalize it to someone else or something else. It's best that you let your partner/teammates know what the issue is so that it can be fixed as soon as possible rather than later. In my case, Shi Wei immediately informed me of anything wrong with the model and offered up solutions that I wouldn't have thought of (the chat log sniplet for example) and I resolved it straight away for him.</li>
+</ul>
